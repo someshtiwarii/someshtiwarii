@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring Web Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshtiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="someshtiwarii" /> </p>
+<p align="left"> <a href="https://twitter.com/someshtiwarii target="blank"><img src="https://img.shields.io/twitter/follow/someshtiwarii?logo=twitter&style=for-the-badge" alt="someshtiwarii" /></a> </p>
 <br>
 
 - 🌱 I’m currently learning **HTML5, CSS3, JS, REACT**
