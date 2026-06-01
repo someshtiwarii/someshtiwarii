@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Somesh Tiwari</h1>
-<h3 align="center">An aspiring Web Developer !</h3>
+<h3 align="center">An aspiring AI Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshtiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="someshtiwarii" /> </p>
 <br>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS, REACT**
+- 🌱 I’m a full stack java developer !
 
 - 👨‍💻 All of my projects are available at [someshtiwari.netlify.app](someshtiwari.netlify.app)
 
