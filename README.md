@@ -10,8 +10,9 @@
 
 - 📫 How to reach me **someshtiwari96@gmail.com**
 
-- ⚡ Fun fact **I love playing computer games and race motorbikes!**
-- <br>
+- ⚡ Fun fact **I love playing computer games and race motorbikes!** <br>
+
+[![Somesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshtiwarii)](https://github.com/someshtiwarii/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
